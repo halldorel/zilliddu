@@ -16,6 +16,7 @@
 	text-align: center;
 	text-transform: capitalize;
 	font-size: 10em;
+	background-color: blue;
 }
 
 .fill {
@@ -32,5 +33,6 @@
 	display: block;
 	text-align: center;
 	text-transform: capitalize;
-	font-size: 10em;	
+	font-size: 10em;
+	background-color: blue;	
 }
